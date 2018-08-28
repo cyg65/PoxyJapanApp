@@ -1,0 +1,28 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 0,
+  "flow.useNPMPackagedFlow": true,
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "prettier.trailingComma": "es5",
+  "editor.tabCompletion": true,
+  "flow.enabled": true,
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    "<>", [
+      "Gold",
+      "Orchid",
+      "LightSkyBlue"
+    ],
+    "Red"
+  ],
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "colorize.languages": [
+    "javascript",
+  ],
+  "jshint.enable": false,
+}
